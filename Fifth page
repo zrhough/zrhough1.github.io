@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <center><u><font color="white" size="7">Wookiee</font></u></center>
+    <title>Chewbacca</title>
+    <font size="5" color="white">
+        <p><center><img align="top" src="https://lumiere-a.akamaihd.net/v1/images/chewie-db_2c0efea2.jpeg?region=54%2C154%2C1413%2C796&width=1200" alt="pig" height=450" width="700"></center></p>
+        <p> <center>This is a Wookiee from the planet Kashyyyk. Farmers raise wookies to scare away animals (or humans) trying to steal their crop.  </center> </p>
+        <p><center><img align="center" src="https://cdn1.thr.com/sites/default/files/imagecache/scale_crop_768_433/2015/04/han_solo_star_wars_-_h_-_2015.jpg" <alt="wookiee" height="400" width="600"></center>
+        <p><center>Wookiees tend to get very attatched to their caretakers. This wookiee's caretaker learned the wookiee language, and even traveled with his wookiee. </center></p>
+
+        <p><center><font size="5"color="white">This is what a Wookiee sounds like</font> </center></p><center><audio controls>
+        <source src="music/chewy_roar.mp3">
+    </audio>
+    </center>
+        <p><center><a href="http://localhost:63342/Zachary%20Hough/Desktop/First%20Code.html?_ijt=f7uq325t0vdafsukn2ciqbbttc"><font COLOR="#f5f5dc" size="5">HOME/</font></a>
+            <a href="http://localhost:63342/Zachary%20Hough/Third%20page.html?_ijt=b6jpktfrqb09c0dn18rh3tdsn7"><font color="#f5f5dc" size="5">PIGS/</font></a>
+            <a href=http://localhost:63342/Zachary%20Hough/Fourth%20Page.html?_ijt=ettn2dhm8tt52ttiobh28q3am1"><font color="#f5f5dc" size="5">CHICKENS/</font></a>
+
+
+        </head>
+<body>
+<body background="http://blog.hostbaby.com/wp-content/uploads/2013/07/scuffedstatic_red_1920x1234.jpg"
+</body>
+</html>
